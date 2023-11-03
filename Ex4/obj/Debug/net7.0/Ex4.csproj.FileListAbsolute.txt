@@ -1,0 +1,14 @@
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/bin/Debug/net7.0/Ex4
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/bin/Debug/net7.0/Ex4.deps.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/bin/Debug/net7.0/Ex4.runtimeconfig.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/bin/Debug/net7.0/Ex4.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/bin/Debug/net7.0/Ex4.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.AssemblyInfoInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.AssemblyInfo.cs
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.csproj.CoreCompileInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/refint/Ex4.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/Ex4.genruntimeconfig.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex4/obj/Debug/net7.0/ref/Ex4.dll

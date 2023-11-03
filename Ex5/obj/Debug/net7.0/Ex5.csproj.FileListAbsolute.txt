@@ -1,0 +1,14 @@
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/bin/Debug/net7.0/Ex5
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/bin/Debug/net7.0/Ex5.deps.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/bin/Debug/net7.0/Ex5.runtimeconfig.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/bin/Debug/net7.0/Ex5.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/bin/Debug/net7.0/Ex5.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.AssemblyInfoInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.AssemblyInfo.cs
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.csproj.CoreCompileInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/refint/Ex5.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/Ex5.genruntimeconfig.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex5/obj/Debug/net7.0/ref/Ex5.dll

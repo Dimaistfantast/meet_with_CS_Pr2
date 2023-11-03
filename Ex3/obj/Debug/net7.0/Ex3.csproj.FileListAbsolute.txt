@@ -1,0 +1,14 @@
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.AssemblyInfoInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.AssemblyInfo.cs
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.csproj.CoreCompileInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/bin/Debug/net7.0/Ex3
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/bin/Debug/net7.0/Ex3.deps.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/bin/Debug/net7.0/Ex3.runtimeconfig.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/bin/Debug/net7.0/Ex3.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/bin/Debug/net7.0/Ex3.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/refint/Ex3.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/Ex3.genruntimeconfig.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/Ex3/obj/Debug/net7.0/ref/Ex3.dll

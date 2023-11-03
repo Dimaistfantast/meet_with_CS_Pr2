@@ -1,0 +1,14 @@
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/bin/Debug/net7.0/HW2
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/bin/Debug/net7.0/HW2.deps.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/bin/Debug/net7.0/HW2.runtimeconfig.json
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/bin/Debug/net7.0/HW2.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/bin/Debug/net7.0/HW2.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.AssemblyInfoInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.AssemblyInfo.cs
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.csproj.CoreCompileInputs.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/refint/HW2.dll
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.pdb
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/HW2.genruntimeconfig.cache
+/Users/dmitrijsmirnov/Desktop/GB PM/Разработчик/Знакомство с языками программирования/Pr2/HW2/obj/Debug/net7.0/ref/HW2.dll
